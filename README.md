@@ -1,47 +1,44 @@
-# Web Development Project 2 - *Learning about Dogs*
+# Web Development Project 3 - *Learning about Dogs*
 
 Submitted by: **Rianna Lei**
 
-This web app: **This flashcard deck is a learning deck for people to learn more and know fun facts about different dog breeds**
+This web app: **This is a flashcard deck about different breeds of dogs, use this to test your knowledge about your dogs!**
 
-Time spent: **10** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a random new card**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [x] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
-- [ ] Cards contains images in addition to or in place of text
-- [ ] Cards have different visual styles such as color based on their category
-  - [ ] *visual style implemented*
+- [ ] A shuffle button is used to randomize the order of the cards
+- [ ] A user's answer may be counted as correct even when it is slightly different from the target answer
+- [ ] A counter displays the user's current and longest streak of correct responses
+- [ ] A user can mark a card that they have mastered and have it removed from the pool of answers as well as added to a list of mastered cards
 
 The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
+* [x] I added a bigger sign saying it is incorrect or correct so viewers can see it better visually 
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://submissions.us-east-1.linodeobjects.com/web102/V9rq1Dru.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/1yhp4HIB.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  no tools! 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<!-- no Tools! -->
+GIF created with ...  
 
 ## Notes
 
-This project was a little challenging, the most difficult part would be making the flashcard deck component itself. It had a lot of issues and bugs while I was doing it; like it was off-centered, it was not randomly generated, or it doesn't go next or click. 
+This part was really fun to make and I liked adding more to the original website and code. It made the website more advanced and added more features. The hard part I think was the clicking back and forth and having it indicate whether or not it is correct. It kept on bugging and the signs were incorrect for a long time and it took me the longest to fix that part. 
 
 ## License
 
