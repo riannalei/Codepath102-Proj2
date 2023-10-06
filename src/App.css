@@ -44,3 +44,27 @@
   background-repeat: no-repeat; /* Do not repeat the image */
   height: 50vh; /* Set the height to the full viewport height */
 }
+
+/* new css */
+.button {
+  margin-right: 10px;
+}
+
+.feedback-message {
+  padding: 10px 20px;  /* Adjust padding as needed */
+  width: fit-content;  /* Makes the box size fit the content */
+  margin: 10px auto;   /* Centers the box horizontally */
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.correct-feedback {
+  background-color: #4CAF50;  /* green */
+  color: white;
+}
+
+.incorrect-feedback {
+  background-color: #f44336;  /* red */
+  color: white;
+}
